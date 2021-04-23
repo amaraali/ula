@@ -103,7 +103,7 @@ if __name__ == '__main__':
     env = {}
     while True:
         try:
-            text = input('masukan > ')
+            text = input('ul > ')
         except EOFError:
             break
         if text:
