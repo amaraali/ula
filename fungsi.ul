@@ -1,0 +1,5 @@
+# Contoh pembuatan fungsi
+
+FUNGSI coba() -> CETAK "Marhaban tiba, marhabn tibaa?"
+
+coba()
