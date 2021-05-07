@@ -4,7 +4,7 @@ import ul_interpreter
 
 from sys import *
 
-#DENGAN MASUKAN .px
+#DENGAN MASUKAN .ul
 lexer = ul_lexer.BasicLexer()
 parser = ul_parser.BasicParser()
 env = {}
